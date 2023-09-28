@@ -76,9 +76,9 @@ if (!isLocal()) {
   $db['default'] = array(
 	'dsn'	=> '',
 	'hostname' => 'localhost',
-	'username' => 'globab9d_higher',
-	'password' => '[r?Lnr5L=5~}',
-	'database' => 'globab9d_globalshopping',
+	'username' => 'itnfdcom_shopuser',
+	'password' => 'Shop@2020',
+	'database' => 'itnfdcom_shop',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
@@ -100,7 +100,7 @@ if (!isLocal()) {
 	'hostname' => 'localhost',
 	'username' => 'root',
 	'password' => '',
-	'database' => 'globalshopping',
+	'database' => 'global',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
@@ -117,5 +117,3 @@ if (!isLocal()) {
 	'save_queries' => TRUE
 );
 }
-
-

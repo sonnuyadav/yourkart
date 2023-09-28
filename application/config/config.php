@@ -18,7 +18,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */ 
 if (!isLocal()) {
-	$config['base_url'] = 'http://globalproductsshopping.com/';
+	$config['base_url'] = 'https://yokart.yourwebcare.com/';
  
 }else{
    $config['base_url'] = 'http://localhost/Globalproducts/';  
